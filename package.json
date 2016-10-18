@@ -52,7 +52,7 @@
     "bitcore"
   ],
   "engines": {
-    "node": ">=0.12.0"
+    "node": "6.9.0"
   },
   "scripts": {
     "test": "NODE_ENV=test mocha -R spec --recursive"
@@ -61,7 +61,7 @@
   "bitcoreNode": "lib",
   "dependencies": {
     "async": "*",
-    "bitcore-lib": "zcoinrocks/bitcore-lib#97045197af21f2d50260c72fcb1eb4f104a88c85",
+    "bitcore-lib": "zcoinrocks/bitcore-lib#39d690ed744df2ef283f5d921af8e5c9e93bd0f7",
     "bitcore-message": "^1.0.1",
     "body-parser": "^1.13.3",
     "compression": "^1.6.1",
