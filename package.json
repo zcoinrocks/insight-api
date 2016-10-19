@@ -61,7 +61,7 @@
   "bitcoreNode": "lib",
   "dependencies": {
     "async": "*",
-    "bitcore-lib": "zcoinrocks/bitcore-lib#39d690ed744df2ef283f5d921af8e5c9e93bd0f7",
+    "bitcore-lib": "zcoinrocks/bitcore-lib#acfbe954fb159332f9801d7444a97afc53bd91ab",
     "bitcore-message": "^1.0.1",
     "body-parser": "^1.13.3",
     "compression": "^1.6.1",
